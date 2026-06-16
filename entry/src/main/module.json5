@@ -5,7 +5,11 @@
     "description": "$string:module_desc",
     "mainElement": "EntryAbility",
     "deviceTypes": [
-      "phone"
+      "phone",
+      "tablet",
+      "tv",
+      "wearable",
+      "2in1"
     ],
     "deliveryWithInstall": true,
     "installationFree": false,
